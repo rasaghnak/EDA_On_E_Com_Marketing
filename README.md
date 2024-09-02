@@ -20,20 +20,6 @@ In a world where personalization is everything, we're using data to build a reco
 - **Faiss**: Super-fast similarity search, crucial for real-time recommendations.
 - **Matplotlib & Seaborn**: For creating beautiful, insightful charts and graphs.
 
-## 📂 What’s Inside This Project?
-
-```plaintext
-├── data/                   # Where all our data lives
-├── notebooks/              # Jupyter notebooks with the step-by-step journey
-├── src/                    # The brains of the operation (aka code)
-│   ├── data_processing.py  # Cleaning up and prepping the data
-│   ├── recommendation.py   # The heart of the recommendation engine
-│   └── visualization.py    # Code to create all those cool charts
-├── README.md               # You're reading it right now!
-└── requirements.txt        # A list of Python packages you'll need
-```
-
-
 
 ## 💡 Why This Matters
 
