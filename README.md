@@ -41,3 +41,5 @@ In a world where personalization is everything, we're using data to build a reco
 - **For Marketers**: Understand regional trends and fine-tune your strategies.
 - **For Customer Happiness**: Streamline the buying process and keep your customers coming back.
 
+**Recommendation: Kindly use colab to view all the outputs**
+Code link: https://github.com/rasaghnak/EDA_On_E_Com_Marketing/blob/main/RK_E_Commerce_Marketing_.ipynb
